@@ -17,4 +17,3 @@
   <a href="https://www.linkedin.com/in/cristiano-mateus-oliveira-da-silva-0b18b0303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake Animation] (https://github.com/masterghz/masterghz/blob/output/github-contribution-grid-snake.svg)
